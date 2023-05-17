@@ -1,5 +1,5 @@
 body {
-  background-image: url(/Assets/pexels-felix-mittermeier-1146134.jpg);
+  background-image: url("./Assets/pexels-felix-mittermeier-1146134.jpg");
   color: white;
   background-repeat: no-repeat;
   background-size: cover;
