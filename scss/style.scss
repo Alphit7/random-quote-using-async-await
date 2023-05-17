@@ -1,0 +1,27 @@
+body{
+    background-image: url(/Assets/pexels-felix-mittermeier-1146134.jpg);
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.Quote__Text{
+    font-style: italic;
+    font-size: 28px;
+}
+.Quote__Caption{
+    position: relative;
+    margin: 5px;
+}
+.Quote__Picture{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-position: center center;
+    margin: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Quote__Reset{
+    margin: 5px;
+}
