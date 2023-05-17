@@ -1,4 +1,4 @@
-import { fetchQuote } from "/assets/js/fetchQuote.js";
+import { fetchQuote } from "./assets/js/fetchQuote.js";
 
 let reset = document.querySelector(".Quote__Reset");
 fetchQuote();
