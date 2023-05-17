@@ -1,5 +1,4 @@
-import { fetchAge } from "./assets/js/age.js";
-
+import { fetchAge } from "../../assets/js/age.js";
 let quoteText = document.querySelector(".Quote__Text");
 let quoteCaption = document.querySelector(".Quote__Caption");
 let quotePicture = document.querySelector(".Quote__Picture");

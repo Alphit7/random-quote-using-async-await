@@ -1,5 +1,4 @@
 let quoteAge = document.querySelector(".Quote__Age");
-import { quoteFirstName } from "./fetchQuote.js";
 
 export function fetchAge(quoteFirstName) {
   fetch("https://api.agify.io/?name=" + quoteFirstName)
